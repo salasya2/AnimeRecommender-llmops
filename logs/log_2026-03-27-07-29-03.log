@@ -1,0 +1,49 @@
+2026-03-27 07:29:03,556 -INFO - Initializing Recommendation Pipeline
+2026-03-27 07:29:03,557 -INFO - Use pytorch device_name: cpu
+2026-03-27 07:29:03,557 -INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-V2
+2026-03-27 07:29:03,969 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,067 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,088 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:04,184 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,282 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,303 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:04,398 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,493 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,514 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config_sentence_transformers.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:04,608 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,705 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,727 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md "HTTP/1.1 200 OK"
+2026-03-27 07:29:04,822 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,917 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:04,940 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:05,064 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,158 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,159 -WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-03-27 07:29:05,180 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:05,275 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/adapter_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,379 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/adapter_config.json "HTTP/1.1 404 Not Found"
+2026-03-27 07:29:05,477 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,573 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,595 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:05,768 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,865 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:05,886 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/config.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:05,982 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,079 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,100 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer_config.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:06,199 -INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-V2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,300 -INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main/additional_chat_templates?recursive=false&expand=false "HTTP/1.1 404 Not Found"
+2026-03-27 07:29:06,395 -INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-V2/tree/main?recursive=true&expand=false "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,497 -INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2/tree/main?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-03-27 07:29:06,642 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-V2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,737 -INFO - HTTP Request: HEAD https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/1_Pooling/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,758 -INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/sentence-transformers/all-MiniLM-L6-v2/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/1_Pooling%2Fconfig.json "HTTP/1.1 200 OK"
+2026-03-27 07:29:06,853 -INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-V2 "HTTP/1.1 307 Temporary Redirect"
+2026-03-27 07:29:06,957 -INFO - HTTP Request: GET https://huggingface.co/api/models/sentence-transformers/all-MiniLM-L6-v2 "HTTP/1.1 200 OK"
+2026-03-27 07:29:07,879 -INFO - Pipeline Initialized succesfully
+2026-03-27 07:29:18,283 -INFO - Recieved a Query : Suggest me something similar to big3
+2026-03-27 07:29:19,765 -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-27 07:29:19,778 -INFO - Recommendation succesfully made
+2026-03-27 07:29:35,959 -INFO - Recieved a Query : Suggest me something similar to naruto
+2026-03-27 07:29:36,988 -INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-03-27 07:29:36,989 -INFO - Recommendation succesfully made
