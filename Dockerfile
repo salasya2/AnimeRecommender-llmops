@@ -12,7 +12,6 @@ RUN apt-get update && apt-get install -y \
 
 COPY . .
 RUN pip install --no-cache-dir -e .\
-
 EXPOSE 8051
 
 CMD ["streamlit","run","app/app.py","--server.port=8051", "server.address=0.0.0.0",'server.headless = true']
